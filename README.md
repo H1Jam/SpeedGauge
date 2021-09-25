@@ -2,7 +2,7 @@
 This is a simple gauge for Android. The entire implemention has been done in Kotlin.
 
 <img src="images/gauge2.gif"/>
-<img src="images/Screenshot1.jpg" style="max-width: 30%;"/>
+![](images/Screenshot1.jpg =250x)
 
 ## How to use it
 First, you need to add it to your layout:

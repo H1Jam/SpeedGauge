@@ -4,9 +4,9 @@ The main Kotlin file for this view is **GaugeView.kt** plus two image assets for
 
 <p float="left">
 <img src="images/gauge2.gif"/>
-<img src="images/Screenshot1.jpg" alt="drawing" width="250"/>
+<img src="images/Screenshot1.jpg" alt="drawing" width="200"/>
 <img src="app/src/main/res/drawable/gauge_back_tr.png" width="250"/>
-<img src="app/src/main/res/drawable/needle_big_ol.png" height="100"/>
+<img src="app/src/main/res/drawable/needle_big_ol.png" height="250"/>
 </p>
 
 ## How to use it:

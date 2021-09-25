@@ -1,5 +1,6 @@
 # SpeedGauge
-This is a simple gauge for Android. The entire implemention has been done in Kotlin.
+This is a simple gauge for Android. The entire implemention has been done in Kotlin 
+The main Kotlin file for this view is **GaugeView.kt** plus two image assets for the **needle** and the **wheel**.
 
 <p float="left">
 <img src="images/gauge2.gif"/>

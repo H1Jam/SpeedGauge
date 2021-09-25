@@ -31,7 +31,7 @@ gaugeView.setGaugeVal(100F)
 - Add XML properties(Make it more configurable in XML layout instead of codes).
 
 ### PS
-if you are graphic designer or have any new idea or have somthing in your mind please share it with me I will try to make good looking widget base on your idea.
+if you are a graphic designer or have any new idea or somthing in your mind please share it with me I will try to make good looking widget base on your idea.
 
 ## License
 ```

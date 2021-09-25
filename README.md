@@ -6,7 +6,7 @@ This is a simple gauge for Android. The entire implemention has been done in Kot
 <img src="images/Screenshot1.jpg" alt="drawing" width="250"/>
 </p>
 
-## How to use it
+## How to use it:
 First, you need to add it to your layout:
 ```xml
 
@@ -26,4 +26,25 @@ gaugeView.arcYellowMaxVal= 140F // Maximum yellow zone (Warning Zone)
 gaugeView.arcRedMaxVal = 180F // Maximum red zone (Critical Zone)
 gaugeView.setGaugeVal(100F)
 ```
+## Todo:
+- Add more description.
+- Add XML properties(Make it more configurable in XML layout instead of codes).
 
+### PS
+if you are graphic designer or have any new idea or have somthing in your mind please share it with me I will try to make good looking widget base on your idea.
+
+## License
+```
+/*******************************************************************************
+ * Copyright 2021 Hossein Jamshidi
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *******************************************************************************/
+ ```

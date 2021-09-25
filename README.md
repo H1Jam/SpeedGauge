@@ -1,6 +1,6 @@
 # SpeedGauge
 This is a simple gauge for Android. The entire implemention has been done in Kotlin.
-<img src="images/gauge2.gif"/>
+<img src="images/gauge2.gif"/><img src="images/Screenshot1.jpg"/>
 ## How to use it
 First, you need to add it to your layout:
 ```xml
@@ -21,3 +21,4 @@ gaugeView.arcYellowMaxVal= 140F // Maximum yellow zone (Warning Zone)
 gaugeView.arcRedMaxVal = 180F // Maximum red zone (Critical Zone)
 gaugeView.setGaugeVal(100F)
 ```
+

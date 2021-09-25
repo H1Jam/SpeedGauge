@@ -1,1 +1,2 @@
 # SpeedGauge
+![Gauge](/gauge.jpg)

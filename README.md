@@ -5,7 +5,7 @@ The main Kotlin file for this view is **GaugeView.kt** plus two image assets for
 <p float="left">
 <img src="images/gauge2.gif"/>
 <img src="images/Screenshot1.jpg" alt="drawing" width="250"/>
-<img src="main/app/src/main/res/drawable/gauge_back_tr.png" width="250"/>
+<img src="app/src/main/res/drawable/gauge_back_tr.png" width="250"/>
 </p>
 
 ## How to use it:

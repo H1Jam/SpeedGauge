@@ -2,7 +2,7 @@
 This is a simple gauge for Android. The entire implemention has been done in Kotlin.
 
 <img src="images/gauge2.gif"/>
-<img src="images/Screenshot1.jpg" alt="drawing" width="100"/>
+<img src="images/Screenshot1.jpg" alt="drawing" width="250"/>
 
 ## How to use it
 First, you need to add it to your layout:

@@ -1,8 +1,10 @@
 # SpeedGauge
 This is a simple gauge for Android. The entire implemention has been done in Kotlin.
 
+<p float="left">
 <img src="images/gauge2.gif"/>
 <img src="images/Screenshot1.jpg" alt="drawing" width="250"/>
+</p>
 
 ## How to use it
 First, you need to add it to your layout:

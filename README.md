@@ -1,3 +1,2 @@
 # SpeedGauge
-![GitHub Logo](/gauge.jpg)
-Format: ![Alt Text](url)
+![Gauge](/gauge.jpg)

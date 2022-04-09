@@ -1,3 +1,5 @@
+![workflow](https://github.com/H1Jam/SpeedGauge/actions/workflows/gradle.yml/badge.svg)
+![license](https://img.shields.io/github/license/H1Jam/SpeedGauge)
 # SpeedGauge
 This is a simple gauge for Android. The entire implemention has been done in Kotlin.<br>
 The main Kotlin file for this view is **GaugeView.kt** plus two image assets for the **needle** and the **wheel**.
